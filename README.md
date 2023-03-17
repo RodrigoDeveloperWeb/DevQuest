@@ -34,7 +34,7 @@ O layout tem com o objetivo, ser integrado ao sistema atual do GSAN, visando a s
 
 # Estrutura de pastas do Projeto Login GSAN-CAGEPA
 
-<img src="./estruturas-de-pasta.png"/>								
+<img src="./estrutura-de-pasta.png"/>								
 
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
