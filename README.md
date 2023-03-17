@@ -58,19 +58,19 @@ comando: npm install - -save toastfy -js
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 
-├── packages    			# 
+├── packages    		# 
 ├──eslint-config-custom		# 
-├──tsconfig 				# 
-├──ui				        # tudo relacionado a interface do usuário
-├── Commons 			    # arquivos
-├── componentes 			# organização de componentes do react
+├──tsconfig 			# 
+├──ui				# tudo relacionado a interface do usuário
+├── Commons 			# arquivos
+├── componentes 		# organização de componentes do react
 ├── core/ BotaoTeamB 		# 
 ├── InputCheckBoxTeamB 		# 
-├── LoginTeam2			    # 
+├── LoginTeam2			# 
 ├── LogoInicialTeam2		# 
-├── LogoLoginTeam2		    # 
+├── LogoLoginTeam2		# 
 ├── Modal/ ModalTeam2		# 
-├── View				    # 
+├── View			# 
 
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
